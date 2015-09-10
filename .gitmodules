@@ -1,0 +1,6 @@
+[submodule "lib/quilt"]
+	path = lib/quilt
+	url = git@github.com:zanematthew/quilt.git
+[submodule "lib/lumber"]
+	path = lib/lumber
+	url = git@github.com:zanematthew/lumber.git
